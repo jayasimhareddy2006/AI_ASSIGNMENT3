@@ -1,11 +1,11 @@
-# 🚀 Dijkstra Algorithm on Indian Cities Road Network
+#  Dijkstra Algorithm on Indian Cities Road Network
 
-## 📌 Description
+## Description
 This project implements **Dijkstra’s Algorithm (Uniform Cost Search)** to find the shortest distance from a given source city to all other cities using road distances in India.
 
 ---
 
-## 🧠 Algorithm Used
+## Algorithm Used
 
 - Dijkstra’s Algorithm (Greedy approach)
 - Uses **priority queue (min-heap)**
@@ -14,4 +14,4 @@ This project implements **Dijkstra’s Algorithm (Uniform Cost Search)** to find
 
 ---
 
-## 📊 Dataset (CSV Format)
+##  Dataset (CSV Format)
